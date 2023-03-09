@@ -1,4 +1,4 @@
-![1024-lampadina](https://user-images.githubusercontent.com/91103250/223886504-c1508d64-0960-4dbe-a9ec-b3cdbdc50212.jpg)
+![lamp-post-cityscape-house-street-light-urban-scene](https://user-images.githubusercontent.com/91103250/223887205-6304d9f2-87c7-4a8d-928f-ab8d85c453d5.jpg)
 
 # Análise Preditiva com Séries Temporais - Consumo de Energia Elétrica
 Este repositório tem objetivo o uso de algoritmo com séries temporais para prever os próximos 365 dias de consumo de energia elétrica em uma residência na França. Os dados foram coletados entre Dez/2006 e Nov/2010 (total de 47 meses) de uma casa localizada em Sceaux, França.
